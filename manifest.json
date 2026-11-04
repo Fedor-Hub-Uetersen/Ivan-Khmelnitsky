@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "Ivan Khmelnitsky",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/Ivan-Khmelnitsky/",
   "short_name": "Ivan",
-  "start_url": "/",
+  "start_url": "/Ivan-Khmelnitsky/",
   "theme_color": "#ffffff",
   "icons": [
     {
@@ -23,5 +23,5 @@
     }
   ],
   "description": "електронна візитка",
-  "id": "/"
+  "id": "/Ivan-Khmelnitsky/"
 }
