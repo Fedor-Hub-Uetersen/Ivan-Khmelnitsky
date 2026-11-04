@@ -1,20 +1,27 @@
 {
-  "name": "Ivan Khmelnitsky",
-  "short_name": "Ivan",
-  "start_url": "/Ivan-Khmelnitsky/",
-  "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#2563eb",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Ivan Khmalnitsky",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Ivan",
+  "start_url": "/",
+  "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "ic_launcher.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "ic_launcher.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "src": "data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'&gt;&lt;rect width='100' height='100' rx='25' fill='%230b1021'/&gt;&lt;text x='50' y='75' font-size='55' font-family='Arial, sans-serif' font-weight='900' fill='%2338bdf8' text-anchor='middle'&gt;FC&lt;/text&gt;&lt;/svg&gt;",
+      "type": "image/svg+xml",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
     }
-  ]
+  ],
+  "description": "електронна візитка",
+  "id": "/Ivan-Khmalnitsky"
 }
